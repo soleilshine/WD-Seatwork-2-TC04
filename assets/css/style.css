@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Dev */
+header,
+header * {
+    outline: 1px dashed blue; 
+}
+
+/* Dep */
+
+header {
+    width: 100%;
+
+    & nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 18px;
+
+        & h1 {
+            font-size: xx-large;
+        }
+
+        & button {
+            border: none;
+            background: none;
+            font-size: medium;
+            font-weight: 600;
+            color: rgb(82, 82, 82);
+            transition: .3s ease-in-out;
+
+
+            &:hover {
+                color: blueviolet;
+
+            }
+        }
+    }
+}
+

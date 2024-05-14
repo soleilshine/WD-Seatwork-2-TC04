@@ -13,6 +13,9 @@ header * {
 
 header {
     width: 100%;
+    position: fixed;
+    background-color: rgba(206, 206, 206, 0.495);
+    z-index: 20;
 
     & nav {
         display: flex;
@@ -29,15 +32,77 @@ header {
             background: none;
             font-size: medium;
             font-weight: 600;
-            color: rgb(82, 82, 82);
+            color: whitesmoke;
             transition: .3s ease-in-out;
+            cursor: pointer;
 
 
             &:hover {
-                color: blueviolet;
+                color: rgb(94, 93, 93);
 
             }
         }
     }
 }
 
+section.hero {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    justify-content: center;
+
+    & img {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        object-fit: cover;
+        height: 100vh;
+        opacity: 90%;
+        z-index: -1;
+
+    }
+    
+    & .content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: rgb(255, 255, 255, 0.219);
+        padding: 1.5rem;
+        margin: 1rem;
+        gap: 14px;
+
+        & h3 {
+            font-size: 1.5rem;
+        }
+
+        & h2 {
+            font-size: 3rem;
+        }
+
+        & p {
+            font-size: 1.2rem;
+        }
+
+        & button {
+            padding: 8px 16px;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            transition: .3s ease-out;
+
+            &:hover {
+                transform: scale(110%) translateY(-4px);
+                box-shadow: rgba(0, 0, 0, 0.74) 0px 15px 10px -7px;
+            }
+
+        }
+
+
+    }
+
+
+}

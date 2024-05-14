@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  TC04
+  My Document 
 </div>
 
 <br />
@@ -111,4 +111,5 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Logo  | link for the image | https://www.voanews.com/a/china-disputes-ruling-giant-pandas/3496313.html |
+| Logo  | used for my logo (panda) | https://www.voanews.com/a/china-disputes-ruling-giant-pandas/3496313.html |
+| Image  | used for the background of my website | https://www.facebook.com/humblebeginningscafeandgiftshop/ |

@@ -59,16 +59,18 @@ https://github.com/soleilshine/WD-Seatwork-2-TC04
 <!-- The following are just sample -->
 Description of the project in details.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
+- Resume Website
+- For Seatwork 2
+
 - What technology used and how it is used
+  1. Waka Time - used to keep track of activity time in projects, ide, os, and language
+  2. HTML - used to create and structure content on the web
+  3. CSS - used to describe the presentation of a document written in HTML
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
+- Single Page Website
 - Parallax transition
 - Transactional
 

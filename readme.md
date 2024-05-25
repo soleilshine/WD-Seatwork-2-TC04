@@ -114,4 +114,8 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Logo  | used for my logo (panda) | https://www.voanews.com/a/china-disputes-ruling-giant-pandas/3496313.html |
-| Image  | used for the background of my website | https://www.facebook.com/humblebeginningscafeandgiftshop/ |
+| Resume Image  | used for the image of resume | https://scontent.fmnl17-5.fna.fbcdn.net/v/t1.15752-9/436332222_414041324790545_4481999764796800084_n.png?stp=dst-png_p403x403&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEjZtYP7P7T2buSK4osOt3Pfvy0Fq9Ltjd-_LQWr0u2N1GGINrBoz2r3wTtPgAbnrMaLc_Tyo82kiWzAjoUDLAm&_nc_ohc=8fvxrK2rZJsQ7kNvgFKPvGz&_nc_ht=scontent.fmnl17-5.fna&oh=03_Q7cD1QG7-0yopu08AhKg0kfKUS698co8SksTef09_NWO3tI6gQ&oe=667917AA |
+| Resume Source  | it is used for the reference of my resume | https://www.youtube.com/watch?v=nDyktz_W6z4&t=34s |
+| Google Fonts  | it is used to change a font style | https://fonts.google.com/specimen/Nunito?query=nuni |
+| Icons Text  | used to display an icon in contact info section | https://www.w3schools.com/icons/fontawesome_icons_text.asp |
+
